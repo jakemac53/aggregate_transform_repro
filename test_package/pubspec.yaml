@@ -1,0 +1,6 @@
+name: test_package
+dependencies:
+  aggregate_transform_repro:
+    path: ../
+transformers:
+- aggregate_transform_repro
